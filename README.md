@@ -39,3 +39,7 @@ them inaccessible to nutch.
     status 5 (db_redir_perm): 133
     status 7 (db_duplicate): 2279
     CrawlDb statistics: done
+
+#Second Crawl of AMD, ADE and ACADIS with enhanced Tika and Nutch Selenium
+MIME types can be found in the attached file. (crawl2_mimetypes.txt). We added the
+protocol-httpclient plugin in the property plugin.includes in nutch-site.xml.
