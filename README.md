@@ -107,7 +107,8 @@ First we constructed tri-gram shingling feature vector from the parsed text of e
     The SimHash algorithm is:
         1. Define a fingerprint size = 64 bits
         2. Create an array V[] filled with this size of zeros
-        3. For each element in the dataset, we create a unique hash with md5. Then choose random chunk of 64-bits as the                signature of the document.
+        3. For each element in the dataset, we create a unique hash with md5. Then choose random chunk 
+           of 64-bits as the signature of the document.
         4. For each hash, for each bit i in this hash:
             ○ If the bit is 0, we add 1 to V[i]
             ○ If the bit is 1, we take 1 from V[i]
