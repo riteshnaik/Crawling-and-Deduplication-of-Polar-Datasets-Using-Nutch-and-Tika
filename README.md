@@ -105,27 +105,27 @@ The algorithm below is used for the data that data we parsed from the crawl.
 First we constructed tri-gram shingling feature vector from the parsed text of each document. Each element of the feature vector was then hashed using MD-5l, which are 128 bits. We used random chunks of 64-bits from the 128 bits as the signature of the document. We used the SimHash algorithm to detect the duplicates.
 
     The SimHash algorithm is:
-    1. Define a fingerprint size = 64 bits
-    2. Create an array V[] filled with this size of zeros
-    3. For each element in the dataset, we create a unique hash with md5. Then choose
-    random chunk of 64-bits as the signature of the document.
-    4. For each hash, for each bit i in this hash:
-    ○ If the bit is 0, we add 1 to V[i]
-    ○ If the bit is 1, we take 1 from V[i]
-    5. For each i
-    ○ If V[i] > 0, i = 1
-    ○ If V[i] < 0, i = 0
-    It gives us a fingerprint characterizing our text, an approximation of the text data. This
-    fingerprint is a binary number, for instance: 10101011100010001010000101111100.
-    6. Then we sort the documents based on their SimHash values.
-    7. Now, to find the similarity between two adjacent fingerprints, say A and B we perform
-    a XOR operation (find the hamming distance).
-    simhash(A)∩simhash(B)
-    we only have to use a XOR operation:
-    10101011100010001010000101111100
-    XOR 10101011100010011110000101111110
-    = 00000000000000010100000000000010
-    Here, the 1 in the XOR result are the differences between the two fingerprints.
-    To get an idea of the difference between the original texts, we count the
-    number of 1 in the XOR result and divide it by the total size of the fingerprint. This is
-    our similarity index.
+        1. Define a fingerprint size = 64 bits
+        2. Create an array V[] filled with this size of zeros
+        3. For each element in the dataset, we create a unique hash with md5. Then choose
+        random chunk of 64-bits as the signature of the document.
+        4. For each hash, for each bit i in this hash:
+        ○ If the bit is 0, we add 1 to V[i]
+        ○ If the bit is 1, we take 1 from V[i]
+        5. For each i
+        ○ If V[i] > 0, i = 1
+        ○ If V[i] < 0, i = 0
+        It gives us a fingerprint characterizing our text, an approximation of the text data. This
+        fingerprint is a binary number, for instance: 10101011100010001010000101111100.
+        6. Then we sort the documents based on their SimHash values.
+        7. Now, to find the similarity between two adjacent fingerprints, say A and B we perform
+        a XOR operation (find the hamming distance).
+        simhash(A)∩simhash(B)
+        we only have to use a XOR operation:
+        10101011100010001010000101111100
+        XOR 10101011100010011110000101111110
+        = 00000000000000010100000000000010
+        Here, the 1 in the XOR result are the differences between the two fingerprints.
+        To get an idea of the difference between the original texts, we count the
+        number of 1 in the XOR result and divide it by the total size of the fingerprint. This is
+        our similarity index.
