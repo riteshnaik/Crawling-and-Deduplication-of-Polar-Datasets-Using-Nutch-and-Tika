@@ -1,0 +1,28 @@
+
+1: text/x-java-source 
+2: text/plain 
+3: text/x-csrc 
+4: text/html 
+5: text/iso19139+xml
+6: text/dif+xml
+7: text/x-php : 2
+8: image/png 
+9: image/gif 
+10: application/atom+xml
+11: application/xml 
+12: application/rss+xml 
+13: application/xhtml+xml
+14: application/x-sh 
+15: application/pdf 
+16: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+17: application/msword
+18: application/x-tar
+19: application/vnd.ms-project
+20: application/vnd.google-earth.kmz
+21: application/octet-stream 
+22: application/x-compress
+23: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+24: application/rdf+xml
+25: application/vnd.google-earth.kml+xml
+26: video/x-ms-wmv
+27: video/x-msvideo
