@@ -1,0 +1,15 @@
+1: text/x-java-source 
+2: text/dif+xml  
+3: text/plain 
+4: text/html 
+5: text/x-jsp 
+6: text/iso19139
+7: image/png 
+8: image/gif
+9: application/atom+xml 
+10: application/rss+xml 
+11: application/x-sh 
+12: application/pdf 
+13: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+14: application/msword 
+15: application/xhtml+xml 
