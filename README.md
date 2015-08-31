@@ -68,6 +68,7 @@ given sites.
 
 ##Are the unfetched URLs from crawl1 still present? Did the enhanced Tika parsing assist with that?
 The URLs in the first crawl are still present in the second crawl. The enhanced Tika parsing helped us find some unfetched URLs from the first crawl which were fetched in the second.
+    
     For e.g.
         ● https://www.aoncadis.org/scienceKeywordTopic/Human%20Dimensions.html
           1st crawl status: not found(14)
