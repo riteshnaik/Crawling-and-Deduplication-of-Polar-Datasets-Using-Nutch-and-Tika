@@ -15,3 +15,27 @@ were added to the file ( instead of +.):
 +^https://([a-z0-9]*\.)*aoncadis.org/
 Also for crawling AMD we commented the regular expression that was helping to skip
 urls with certain characters . (-[?*!@=])
+
+#First Crawl of AMD, ADE and ACADIS
+MIME types can be found in the attached file. (crawl1_mimetypes.txt)
+Most of them were web pages (txt/html). We didn’t fetch any science data files such as HDF,
+NetCDF and Grib files. This was because these files were present behind forms making
+them inaccessible to nutch.
+
+##Crawl Statistics:
+CrawlDb statistics start: crawldata/crawldb
+Statistics for CrawlDb: crawldata/crawldb
+TOTAL urls: 223331
+retry 0: 222950
+retry 1: 380
+retry 2: 1
+min score: 0.0
+avg score: 3.4562038E-4
+max score: 1.082
+status 1 (db_unfetched): 194007
+status 2 (db_fetched): 23519
+status 3 (db_gone): 608
+status 4 (db_redir_temp): 2785
+status 5 (db_redir_perm): 133
+status 7 (db_duplicate): 2279
+CrawlDb statistics: done
