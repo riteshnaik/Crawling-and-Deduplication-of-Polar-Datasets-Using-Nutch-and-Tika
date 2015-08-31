@@ -127,3 +127,57 @@ First we constructed tri-gram shingling feature vector from the parsed text of e
            Here, the 1 in the XOR result are the differences between the two fingerprints.To get an idea
            of the difference between the original texts, we count the number of 1 in the XOR result and 
            divide it by the total size of the fingerprint. This is our similarity index.
+           
+#Algorithm for detecting near duplicates
+We used extracted metadata as a feature vector to detect near duplicates. Each element of
+the feature vector was used in calculating simhash using the above mentioned simhash
+algorithm and stored in a HashMap. Now the fingerprint is compared to the previously stored
+URLs. Near duplicates are identified with hamming distance 0.
+
+#URL Filter Plugin
+As every URL is crawled, its fingerprint is calculated using the above mentioned simhash
+algorithm and stored in a HashMap. Now the fingerprint is compared to the previously stored
+URLs. If it’s a match with hamming distance 0 then Url filter writes it to the file as near and
+exact duplicates respectively.
+We have two filters, one for exact (uses content) and one for near duplicates (uses
+metadata).Each filter generates two files-
+● List of duplicate URLs with same URL and content.
+- Exact_Duplicates_sameURL.txt and Near_Duplicates_sameURL.txt
+● List of duplicate URLs with different URL but having the exact same content.
+Exact_Duplicates_diffURL.txt and Near_Duplicates_diffURL.txt
+How we arrived at the above algorithm:
+We went over the slides, papers and did some research on the web. We came across the
+concept of SimHash and incorporated it.
+What worked about it? What didn’t?
+The URL filter is able to successfully identify duplicates. But when we try to drop the URL if
+it is a duplicate, it isn’t passed to Nutch to write to the segment for the next round of the
+crawl.
+Number of exact duplicate URL’s detected:
+● 3445 duplicate urls from the first crawl data.
+● 596 duplicate urls from the second (with selenium) crawl data.
+Number of near duplicate URL’s detected:
+Our near deduplication plugin identifies near duplicate data on the fly while nutch is crawling
+using the metadata of the URLs. However the crawled data of the three assigned URLs did
+not contain sufficient metadata to perform this deduplication. Hence to test our plugin we
+crawled espncricinfo site with 1 depth. Sample of near duplicates found is mentioned in the
+ReadME provided.
+Experience with Apache Nutch and Apache Tika
+The installation of all the softwares was a challenge. There was no documentation about
+dependencies of web browsers with selenium. It works only with versions 29 or lower.
+Allocating a display using xvfb didn’t work on machines enabled with jlx. Using Tika with
+Nutch was very useful for content and metadata extraction. The functions available from
+Tika helped us extract the right information and design our plugins. There were a lot of
+plugins available with Nutch to customize our crawl.
+D3 Visualization
+(The screenshot of the clustered data can be found in the submission folder.)
+We have 170 image files from our crawl but to get a better understanding of the clustering
+we decided to use 74 image files.
+We found 5 clusters. In cluster 1, there are two images which have a similar background. In
+cluster 2 and cluster 4, we come across all the images that are used by the website to
+represent the various fields of environmental studies. In cluster 3, we find the logo and
+header images which are used as standard graphics by the website for every webpage.
+We observed that the duplicate images are clustered together.
+Although most of the clustering makes sense , there were a few images that didn’t seem to
+belong to the clusters they were represented in.
+An interesting observation about the d3
+graph is that clusters 2 and 4 are conceptually the same but are still represented separately
