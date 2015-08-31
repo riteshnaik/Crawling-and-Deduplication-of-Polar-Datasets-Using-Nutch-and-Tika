@@ -1,0 +1,468 @@
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/sediment_core_and_land_sample_data_for_nsf_0935336.iso19139 is 0
+No of duplicates so far:1
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ARCSS-Streams/file.wget is 0
+No of duplicates so far:2
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Alden2007.dif is 0
+No of duplicates so far:3
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/CALON/file.wget is 0
+No of duplicates so far:4
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Ceperley2012.iso19139 is 0
+No of duplicates so far:5
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ClumpedHillGCA2014/file.wget is 0
+No of duplicates so far:6
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ClumpedTang2014/file.wget is 0
+No of duplicates so far:7
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/DOCThule/file.wget is 0
+No of duplicates so far:8
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/EventLog_2011/file.wget is 0
+No of duplicates so far:9
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Genetics__2013.iso19139 is 0
+No of duplicates so far:10
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/GreenSubState/file.wget is 0
+No of duplicates so far:11
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/HLY1104_WinterCruise_Zooplankton/file.wget is 0
+No of duplicates so far:12
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Kehrl2010/file.wget is 0
+No of duplicates so far:13
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Magnabosco2011/file.wget is 0
+No of duplicates so far:14
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Mapping.iso19139 is 0
+No of duplicates so far:15
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Nussbaum2013.dif is 0
+No of duplicates so far:16
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Nussbaum2013.iso19139 is 0
+No of duplicates so far:17
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Pendleton2011.iso19139 is 0
+No of duplicates so far:18
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Poppick2010/file.wget is 0
+No of duplicates so far:19
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Publications/file.wget is 0
+No of duplicates so far:20
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Regional_Methane_and_Carbon_Dioxide_Fluxes/file.wget is 0
+No of duplicates so far:21
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Szembek2006.dif is 0
+No of duplicates so far:22
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Szembek2006.iso19139 is 0
+No of duplicates so far:23
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Tiedmann2013.dif is 0
+No of duplicates so far:24
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Yellen2006.dif is 0
+No of duplicates so far:25
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Yellen2006/file.wget is 0
+No of duplicates so far:26
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/barrow_atqasuk_itex_climate_1998-2008/file.wget is 0
+No of duplicates so far:27
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/combatant_col_ice_core_trace_chemistry_and_oxygen_isotopes/file.wget is 0
+No of duplicates so far:28
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ctd_data_2012/file.wget is 0
+No of duplicates so far:29
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/imnaviat_creek__alaska_-_ridge_station__ic_1991___consolidated_dataset.iso19139 is 0
+No of duplicates so far:30
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/microclimate_data/file.wget is 0
+No of duplicates so far:31
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/neem_firn_core_2009s2_density_and_permeability/file.wget is 0
+No of duplicates so far:32
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/pCO2_and_pH_time_series_in_the_Beaufort_Sea/file.wget is 0
+No of duplicates so far:33
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/simpson_lagoon_chirp_seismic_data_collected_for_nsf_0935336.iso19139 is 0
+No of duplicates so far:34
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.102_267.iso19139 is 0
+No of duplicates so far:35
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.13_736.iso19139 is 0
+No of duplicates so far:36
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.46_755.dif is 0
+No of duplicates so far:37
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.61_002.dif is 0
+No of duplicates so far:38
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.61_002.iso19139 is 0
+No of duplicates so far:39
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/0909354.dif is 0
+No of duplicates so far:40
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/2011_CO2.dif is 0
+No of duplicates so far:41
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/2011_CO2/file.wget is 0
+No of duplicates so far:42
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/2013_NiskinData.iso19139 is 0
+No of duplicates so far:43
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/2013_NiskinData/file.wget is 0
+No of duplicates so far:44
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Anderson2007/file.wget is 0
+No of duplicates so far:45
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Barnhart2010.dif is 0
+No of duplicates so far:46
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Barrow/file.wget is 0
+No of duplicates so far:47
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Borehole_data.dif is 0
+No of duplicates so far:48
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Borehole_data/file.wget is 0
+No of duplicates so far:49
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Burn_SM_Temp/file.wget is 0
+No of duplicates so far:50
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/CO2,_pH,_dissolved_O2,_T,_and_S_ITP_data.iso19139 is 0
+No of duplicates so far:51
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Ceperley2012/file.wget is 0
+No of duplicates so far:52
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Cobin2008/file.wget is 0
+No of duplicates so far:53
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Cumpstson2006/file.wget is 0
+No of duplicates so far:54
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/DNA.dif is 0
+No of duplicates so far:55
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/DeWet2011/file.wget is 0
+No of duplicates so far:56
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/FCDischarge/file.wget is 0
+No of duplicates so far:57
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/GPR_snow_accumulation_rates/file.wget is 0
+No of duplicates so far:58
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Genetics2011/file.wget is 0
+No of duplicates so far:59
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Gercke2006.dif is 0
+No of duplicates so far:60
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/HD_Thaw_Perm/file.wget is 0
+No of duplicates so far:61
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/HLY1104_VPRData/file.wget is 0
+No of duplicates so far:62
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/HLY1104_WinterCruise_Zooplankton.iso19139 is 0
+No of duplicates so far:63
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Ice-tethered_Winch/file.wget is 0
+No of duplicates so far:64
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Jaurrieta2005/file.wget is 0
+No of duplicates so far:65
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Kehrl2010.dif is 0
+No of duplicates so far:66
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Lane2005.dif is 0
+No of duplicates so far:67
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Leon2007/file.wget is 0
+No of duplicates so far:68
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Mapping/file.wget is 0
+No of duplicates so far:69
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Marshburn2010/file.wget is 0
+No of duplicates so far:70
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Matell2006/file.wget is 0
+No of duplicates so far:71
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/McGregor2012.dif is 0
+No of duplicates so far:72
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Mitchell2009/file.wget is 0
+No of duplicates so far:73
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Mortazavi2009.iso19139 is 0
+No of duplicates so far:74
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/NEEM_d13CH4_over_last_2ka/file.wget is 0
+No of duplicates so far:75
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Nelson2010.dif is 0
+No of duplicates so far:76
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Nereson2010/file.wget is 0
+No of duplicates so far:77
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Nussbaum2013/file.wget is 0
+No of duplicates so far:78
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Pendleton2011.dif is 0
+No of duplicates so far:79
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Pendleton2011/file.wget is 0
+No of duplicates so far:80
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Perrault2006/file.wget is 0
+No of duplicates so far:81
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Rajagopalan2012.iso19139 is 0
+No of duplicates so far:82
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Rajagopalan2012/file.wget is 0
+No of duplicates so far:83
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/SCARFs.dif is 0
+No of duplicates so far:84
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/SCARFs.iso19139 is 0
+No of duplicates so far:85
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/SU07chem/file.wget is 0
+No of duplicates so far:86
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Stewart2007.dif is 0
+No of duplicates so far:87
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Svalbard_Glacier_Facies.iso19139 is 0
+No of duplicates so far:88
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Svalbard_Glacier_Facies/file.wget is 0
+No of duplicates so far:89
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Szembek2006/file.wget is 0
+No of duplicates so far:90
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/TLE-SP-2011.iso19139 is 0
+No of duplicates so far:91
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Tiedmann2013/file.wget is 0
+No of duplicates so far:92
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Transparency.iso19139 is 0
+No of duplicates so far:93
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Tunu_N_continuous_reanalysis.iso19139 is 0
+No of duplicates so far:94
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Tunu_N_continuous_reanalysis/file.wget is 0
+No of duplicates so far:95
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/USGS_DOI_GTN-P/file.wget is 0
+No of duplicates so far:96
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Vaillencourt2010.iso19139 is 0
+No of duplicates so far:97
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Water-uptake/file.wget is 0
+No of duplicates so far:98
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/WeiHaas2009.iso19139 is 0
+No of duplicates so far:99
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Yellen2006.iso19139 is 0
+No of duplicates so far:100
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Zamora2010.iso19139 is 0
+No of duplicates so far:101
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ZoopAbund2013.dif is 0
+No of duplicates so far:102
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/arctic_great_rivers_observatory_data/file.wget is 0
+No of duplicates so far:103
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/arctic_ocean_internal_waves_and_mixing_data/file.wget is 0
+No of duplicates so far:104
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/arctic_plant_and_ecosystem_respiration.dif is 0
+No of duplicates so far:105
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/barrow_atqasuk_itex_thaw_1995-2008/file.wget is 0
+No of duplicates so far:106
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/barrow_timeseries/file.wget is 0
+No of duplicates so far:107
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/bering_strait_khromov_2011_cruise_report.iso19139 is 0
+No of duplicates so far:108
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/calm_iii_update_june_5_2012/file.wget is 0
+No of duplicates so far:109
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/carbon_isotope_data_from_modern_and_fossil_tree_rings.dif is 0
+No of duplicates so far:110
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/cloud_microphysical_properties_at_arctic_atmospheric_observatories.iso19139 is 0
+No of duplicates so far:111
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/core_atmospheric_and_snow_measurements_at_summit_greenland_environmental_observatory_soundings.dif is 0
+No of duplicates so far:112
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/core_atmospheric_and_snow_measurements_at_summit_greenland_environmental_observatory_surface_snow_chemistry.dif is 0
+No of duplicates so far:113
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/core_atmospheric_and_snow_measurements_at_summit_greenland_environmental_observatory_surface_snow_chemistry/file.wget is 0
+No of duplicates so far:114
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ecosystem_metabolism_for_an_arctic_warm_spring-stream_ivishak_hot_spring_alaska.dif is 0
+No of duplicates so far:115
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/event_log_for_2012_field_season/file.wget is 0
+No of duplicates so far:116
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/field_campaigns_snownet.dif is 0
+No of duplicates so far:117
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/fine_root_production.dif is 0
+No of duplicates so far:118
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/fox_timeseries/file.wget is 0
+No of duplicates so far:119
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/graph_of_tuluksak_bethel_census_area_alaska_population_1990-2006.dif is 0
+No of duplicates so far:120
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/hydro-chemical_data_for_npeo_2010/file.wget is 0
+No of duplicates so far:121
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ice_camp_surface_mesonet_ncar_pam-iii.iso19139 is 0
+No of duplicates so far:122
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/imnaviat_creek__alaska_-_fen_station__ic_1523___consolidated_dataset.iso19139 is 0
+No of duplicates so far:123
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/isotopes.dif is 0
+No of duplicates so far:124
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/kangerlussuaq_greenland_microclimate_and_co2_flux/file.wget is 0
+No of duplicates so far:125
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/leaf_cnp_and_isotopes_13c__15n_and_18o_from_itex_cross_site_comparison/file.wget is 0
+No of duplicates so far:126
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/mesozooplankton_abundance_2011/file.wget is 0
+No of duplicates so far:127
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/moist_acidic_tundra_micromet_data/file.wget is 0
+No of duplicates so far:128
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ncar_pam-iii_cleveland_ice_camp_site/file.wget is 0
+No of duplicates so far:129
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ncar_pam-iii_florida_ice_camp_site/file.wget is 0
+No of duplicates so far:130
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ncep_fnl_operational_model_global_tropospheric_analyses_continuing_from_july_1999_.iso19139 is 0
+No of duplicates so far:131
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ncep_fnl_operational_model_global_tropospheric_analyses_july_1976_-_continuing.dif is 0
+No of duplicates so far:132
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/north_pole_environmental_observatory__npeo__j-cad_drifting_buoy_data__arctic_ocean__2000-2002/file.wget is 0
+No of duplicates so far:133
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/north_pole_environmental_observatory__npeo__pmel_crrel_ice_temperature_and_mass_balance_buoy_data/file.wget is 0
+No of duplicates so far:134
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/north_pole_environmental_observatory__npeo__weather_and_radiation_buoy_data/file.wget is 0
+No of duplicates so far:135
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/north_pole_environmental_observatory_ctd-o2_data/file.wget is 0
+No of duplicates so far:136
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/pool_warming/file.wget is 0
+No of duplicates so far:137
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/predicted_arctic_vegetation_distribution_shifts_under_future_climate_change/file.wget is 0
+No of duplicates so far:138
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/radar_monitoring_data_collected_at_two_locations_in_june_2009_breidamerkurjokull/file.wget is 0
+No of duplicates so far:139
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/radon222.iso19139 is 0
+No of duplicates so far:140
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/seaglider_observations_in_davis_strait.iso19139 is 0
+No of duplicates so far:141
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/seaglider_observations_in_davis_strait/file.wget is 0
+No of duplicates so far:142
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/seasonality_of_tundra_plant_soil_interactions/file.wget is 0
+No of duplicates so far:143
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/simpson_lagoon_chirp_seismic_data_collected_for_nsf_0935336.dif is 0
+No of duplicates so far:144
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/simpson_lagoon_chirp_seismic_data_collected_for_nsf_0935336/file.wget is 0
+No of duplicates so far:145
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/soil_nitrogen_availability_ion_exchange_membranes.dif is 0
+No of duplicates so far:146
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/statistics_on_data_sets_in_cadis/file.wget is 0
+No of duplicates so far:147
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/thule_greenland_-_microclimate_and_co2_flux/file.wget is 0
+No of duplicates so far:148
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/toolik_snowfence_experiment__itex___plant_community_data/file.wget is 0
+No of duplicates so far:149
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/toolik_snowfence_experiment_ecosystem_co2_fluxes/file.wget is 0
+No of duplicates so far:150
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/u1_barrow_active-layer_thickness_and_snow_depth/file.wget is 0
+No of duplicates so far:151
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/u7b_betty_pingo_mnt_active-layer_thickness_/file.wget is 0
+No of duplicates so far:152
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/u7c_betty_pingo_wet_active-layer_thickness_/file.wget is 0
+No of duplicates so far:153
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.102_240.iso19139 is 0
+No of duplicates so far:154
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.102_241.iso19139 is 0
+No of duplicates so far:155
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.102_284.dif is 0
+No of duplicates so far:156
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.102_284.iso19139 is 0
+No of duplicates so far:157
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_221.iso19139 is 0
+No of duplicates so far:158
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_266.dif is 0
+No of duplicates so far:159
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_294.iso19139 is 0
+No of duplicates so far:160
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_336.dif is 0
+No of duplicates so far:161
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_429.iso19139 is 0
+No of duplicates so far:162
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_ARCSS069.dif is 0
+No of duplicates so far:163
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_ARCSS136.dif is 0
+No of duplicates so far:164
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.106_ARCSS160.dif is 0
+No of duplicates so far:165
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.13_105.dif is 0
+No of duplicates so far:166
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.13_738.iso19139 is 0
+No of duplicates so far:167
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.215_001.dif is 0
+No of duplicates so far:168
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.234_002.dif is 0
+No of duplicates so far:169
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.234_002.iso19139 is 0
+No of duplicates so far:170
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B52_005.dif is 0
+No of duplicates so far:171
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B52_011.dif is 0
+No of duplicates so far:172
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B53_004.iso19139 is 0
+No of duplicates so far:173
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B61_002.dif is 0
+No of duplicates so far:174
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B62_015.dif is 0
+No of duplicates so far:175
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B63_002.dif is 0
+No of duplicates so far:176
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B64_001.dif is 0
+No of duplicates so far:177
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B64_001.iso19139 is 0
+No of duplicates so far:178
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B64_002.dif is 0
+No of duplicates so far:179
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B64_002.iso19139 is 0
+No of duplicates so far:180
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B67_001.dif is 0
+No of duplicates so far:181
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B69_007.dif is 0
+No of duplicates so far:182
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.245_B92_001.dif is 0
+No of duplicates so far:183
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.46_703.dif is 0
+No of duplicates so far:184
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_222.dif is 0
+No of duplicates so far:185
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_224.iso19139 is 0
+No of duplicates so far:186
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_231.dif is 0
+No of duplicates so far:187
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_231.iso19139 is 0
+No of duplicates so far:188
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_331.dif is 0
+No of duplicates so far:189
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_331.iso19139 is 0
+No of duplicates so far:190
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_6000.iso19139 is 0
+No of duplicates so far:191
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_603.dif is 0
+No of duplicates so far:192
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_603.iso19139 is 0
+No of duplicates so far:193
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_615.dif is 0
+No of duplicates so far:194
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_627.dif is 0
+No of duplicates so far:195
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_629.dif is 0
+No of duplicates so far:196
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_634.dif is 0
+No of duplicates so far:197
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.56_636.iso19139 is 0
+No of duplicates so far:198
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.61_004.dif is 0
+No of duplicates so far:199
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.61_006.dif is 0
+No of duplicates so far:200
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.62_057.dif is 0
+No of duplicates so far:201
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.62_092.dif is 0
+No of duplicates so far:202
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.62_294.dif is 0
+No of duplicates so far:203
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ucar.ncar.eol.dataset.62_294.iso19139 is 0
+No of duplicates so far:204
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/vibracore_x-radiographs_for_simpson_lagoon_nsf_09035336/file.wget is 0
+No of duplicates so far:205
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/weekly_and_biweekly_time_series_for_tundra_regions_1982-2011.dif is 0
+No of duplicates so far:206
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/weekly_and_biweekly_time_series_for_tundra_regions_1982-2011/file.wget is 0
+No of duplicates so far:207
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset.atom is 0
+No of duplicates so far:208
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/2012_CO2/file.wget is 0
+No of duplicates so far:209
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Alden2007/file.wget is 0
+No of duplicates so far:210
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Helfrich2007/file.wget is 0
+No of duplicates so far:211
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Lane2005/file.wget is 0
+No of duplicates so far:212
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Thomas2005/file.wget is 0
+No of duplicates so far:213
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/0909354/file.wget is 0
+No of duplicates so far:214
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/ACEX/file.wget is 0
+No of duplicates so far:215
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Arnold2009/file.wget is 0
+No of duplicates so far:216
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/C14,_O18,_magnetic_susceptibility,_and_plants/file.wget is 0
+No of duplicates so far:217
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Ceperley2012.dif is 0
+No of duplicates so far:218
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Cobin2008.iso19139 is 0
+No of duplicates so far:219
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Genetics__2013/file.wget is 0
+No of duplicates so far:220
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/McKay2005/file.wget is 0
+No of duplicates so far:221
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Moore2006/file.wget is 0
+No of duplicates so far:222
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/OPTV/file.wget is 0
+No of duplicates so far:223
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Otter_Lake_Data/file.wget is 0
+No of duplicates so far:224
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Pratt2005/file.wget is 0
+No of duplicates so far:225
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Roop2007/file.wget is 0
+No of duplicates so far:226
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Wei2011/file.wget is 0
+No of duplicates so far:227
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/Zamora2010/file.wget is 0
+No of duplicates so far:228
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/carbon_isotope_data_from_modern_and_fossil_tree_rings/file.wget is 0
+No of duplicates so far:229
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/carbon_isotopic_values_of_alkanes_extracted_from_paleosols/file.wget is 0
+No of duplicates so far:230
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/imnavait_field/file.wget is 0
+No of duplicates so far:231
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/imnaviat_creek__alaska_-_ridge_station__ic_1991___consolidated_dataset/file.wget is 0
+No of duplicates so far:232
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/tree_ring_data/file.wget is 0
+No of duplicates so far:233
+Distance between URL:: https://www.aoncadis.org/dataset/Magnabosco2011.dif and URL:: https://www.aoncadis.org/dataset/x/file.wget is 0
+No of duplicates so far:234

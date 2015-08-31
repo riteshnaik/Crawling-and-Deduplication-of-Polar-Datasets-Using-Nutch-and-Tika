@@ -1,0 +1,880 @@
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Silver-Grey+Petrels%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Silver-grey+petrels%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 1
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1118&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BSensor_Name%3A+Short_Name%3D%26%23039%3BCameras%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1118&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 2
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=noaa&KeywordPath=%5BProject%3A+Short_Name%3D%26%23039%3BICESAT%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=GLA05&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=noaa&KeywordPath=%5BKeyword%3D%26%23039%3BWaveform+Skewness%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=GLA05&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 3
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27U.S.+Census%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BProject%3A+Short_Name%3D%27USCG%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 4
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BProject%3A+Short_Name%3D%26%23039%3BEOSDIS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=BOREAS_TF11TFX&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BSensor_Name%3A+Short_Name%3D%26%23039%3BSOIL+HEAT+FLUX+TRANSDUCER%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=BOREAS_TF11TFX&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 5
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BKeyword%3D%26%23039%3Bscientific+mission%26%23039%3B%5D&OrigMetadataNode=NOAA-NGDC&EntryId=gov.noaa.ngdc.mgg.wcd.EX1402L3_EK60&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BKeyword%3D%26%23039%3Bsea%26%23039%3B%5D&OrigMetadataNode=NOAA-NGDC&EntryId=gov.noaa.ngdc.mgg.wcd.EX1402L3_EK60&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 6
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=GCMD&EntryId=CNDA-ESP_BRANDSFIELD&MetadataView=Full&MetadataType=0&lbnode=mdlb5
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BOCEANS%26%23039%3B%2C+Term%3D%26%23039%3BOCEAN+CIRCULATION%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BWATER+MASSES%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=CNDA-ESP_BRANDSFIELD&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 7
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27WADLEY%27%2C+Middle_Name%3D%27A%27%2C+First_Name%3D%27VICTORIA%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27STODDART%27%2C+First_Name%3D%27MICHAEL%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 8
+Distance between URL:: http://gcmd.gsfc.nasa.gov/getdif.htm?[GCMD]NSIDC-0020
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0020&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 9
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BIPO%26%23039%3B%2C+First_Name%3D%26%23039%3BSOLAS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=SOLAS_POSEIDON332&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BUEA%26%2347%3BSES%26%2347%3BSOLAS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=SOLAS_POSEIDON332&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 10
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27BIOLOGICAL+CLASSIFICATION%27%2C+Term%3D%27ANIMALS%2FINVERTEBRATES%27%2C+Variable_Level_1%3D%27ARTHROPODS%27%2C+Variable_Level_2%3D%27CRUSTACEANS%27%2C+Variable_Level_3%3D%27AMPHIPODS%27%5D&EntryId=TRENZ&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BECOLOGICAL+DYNAMICS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSPECIES%26%2347%3BPOPULATION+INTERACTIONS%26%23039%3B%2C+Variable_Level_2%3D%26%23039%3BUSE%26%2347%3BFEEDING+HABITATS%26%23039%3B%5D&EntryId=TRENZ&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 11
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BECOLOGICAL+DYNAMICS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BCOMMUNITY+DYNAMICS%26%23039%3B%2C+Variable_Level_2%3D%26%23039%3BBIODIVERSITY+FUNCTIONS%26%23039%3B%5D&EntryId=TRENZ_Stable_Isotopes&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27BIOSPHERE%27%2C+Term%3D%27ECOLOGICAL+DYNAMICS%27%2C+Variable_Level_1%3D%27SPECIES%2FPOPULATION+INTERACTIONS%27%2C+Variable_Level_2%3D%27SPECIES+PREDATION%27%5D&OrigMetadataNode=AADC&EntryId=TRENZ_Stable_Isotopes&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 12
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=Parameters%7CBIOSPHERE&EntryId=[AADC]ASAC_1083&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BBEYER%26%23039%3B%2C+First_Name%3D%26%23039%3BLOTHAR%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1083&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 13
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BKeyword%3D%26%23039%3BPassive+Microwave+Brightness+Temperatures%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0105&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0105&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 14
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BSource_Name%3A+Short_Name%3D%27FIXED+OBSERVATION+STATIONS%27%5D&EntryId=NOAA_NWS_WX&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27ATMOSPHERE%27%2C+Science_Term%3D%27ATMOSPHERIC+TEMPERATURE%27%2C+Science_Variable_Level_1%3D%27MAXIMUM%2FMINIMUM+TEMPERATURE%27%5D&EntryId=NOAA_NWS_WX&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 15
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=ServiceParameters%7CEDUCATION%2FOUTREACH&EntryId=MY_NASA_DATA_CE&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BKeyword%3D%27Land+Surface%27%5D&EntryId=MY_NASA_DATA_CE&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 16
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1963&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1963&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 17
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=ServiceParameters%7CDATA+MANAGEMENT%2FDATA+HANDLING%7CSUBSETTING%2FSUPERSETTING&EntryId=LARC_MOPITT_Search_Subsetting&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=ServiceParameters%7CDATA+MANAGEMENT%2FDATA+HANDLING&EntryId=LARC_MOPITT_Search_Subsetting&MetadataView=Full&MetadataType=1&lbnode=mdlb3 is 1
+count of duplicates: 18
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=ServiceParameters%7CHAZARDS+MANAGEMENT%7CHAZARDS+PLANNING&EntryId=UN_SPIDER_PORTAL&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BPersonnel%3A+Last_Name%3D%27UN+OFFICE+FOR+OUTER+SPACE+AFFAIRS%27%5D&EntryId=UN_SPIDER_PORTAL&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 19
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27REGULAR%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27RANDOM%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 20
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Titles.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BECOLOGICAL+DYNAMICS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSPECIES%26%2347%3BPOPULATION+INTERACTIONS%26%23039%3B%2C+Variable_Level_2%3D%26%23039%3BUSE%26%2347%3BFEEDING+HABITATS%26%23039%3B%5D&MetadataType=0&Offset=50&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Pen%C3%ADnsula+Ant%C3%A1rtica%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 21
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Coppermine+Bay%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Antarctic+soils%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 22
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27scientific+mission%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27underwater%27%5D&Portal=water&MetadataType=0 is 1
+count of duplicates: 23
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27BIOSPHERE%27%2C+Science_Term%3D%27VEGETATION%27%2C+Science_Variable_Level_1%3D%27VEGETATION+COVER%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27LAND+SURFACE%27%2C+Science_Term%3D%27LAND+USE%2FLAND+COVER%27%2C+Science_Variable_Level_1%3D%27LAND+USE+CLASSES%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 24
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27LAND+SURFACE%27%2C+Science_Term%3D%27LAND+USE%2FLAND+COVER%27%2C+Science_Variable_Level_1%3D%27LAND+USE+CLASSES%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27HUMAN+DIMENSIONS%27%2C+Science_Term%3D%27HABITAT+CONVERSION%2FFRAGMENTATION%27%2C+Science_Variable_Level_1%3D%27URBANIZATION%2FURBAN+SPRAWL%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 25
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CRETACEOUS%27%5D&Portal=GCMD_Services&MetadataType=1
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27SILURIAN%27%5D&Portal=GCMD_Services&MetadataType=1 is 1
+count of duplicates: 26
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3BLOCATION%26%23039%3B%5D&EntryId=ASAC_2201&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BO%26%23039%3BBrien+Bay%26%23039%3B%5D&EntryId=ASAC_2201&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 27
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BCLIMATE+CHANGE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AAS_3117&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AAS_3117&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 28
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BOCEANS%26%23039%3B%2C+Term%3D%26%23039%3BOCEAN+WAVES%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BWAVE+HEIGHT%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=USGS_WHFC_SUPERDIF3&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BATLANTIC+OCEAN%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BU.S.+EASTERN+SEABOARD%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=USGS_WHFC_SUPERDIF3&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 29
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BTERRESTRIAL+HYDROSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSNOW%26%2347%3BICE+CHEMISTRY%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BIsotope%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 30
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27SEA+SURFACE+TOPOGRAPHY%27%2C+Science_Variable_Level_1%3D%27SEA+SURFACE+HEIGHT%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27COASTAL+PROCESSES%27%2C+Science_Variable_Level_1%3D%27INTERTIDAL+ZONE%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 31
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 32
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BNORTH+AMERICA%26%23039%3B%2C+Location_Subregion1%3D%26%23039%3BUNITED+STATES+OF+AMERICA%26%23039%3B%2C+Location_Subregion2%3D%26%23039%3BCALIFORNIA%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 33
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+RADIATION%26%23039%3B%5D&EntryId=[AADC]201011010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 34
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 35
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 36
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112040&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 37
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=AADC&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 38
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BFAST+ICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BCRYOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 39
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201011021&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 40
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 41
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=noaa&MetadataType=0 is 1
+count of duplicates: 42
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27SEA+ICE%27%2C+Variable_Level_1%3D%27SEA+ICE+MOTION%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?Portal=water&KeywordPath=Parameters%7COCEANS%7CSEA+ICE%7CSEA+ICE+MOTION&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 43
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BCLIMATE+CHANGE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_40_AS0405R4&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_40_AS0405R4&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 44
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BGiant+Petrels%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_Zoology_1959_1961&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BSilver-Grey+Petrels%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_Zoology_1959_1961&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 45
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1962&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BCONNELL%26%23039%3B%2C+Middle_Name%3D%26%23039%3BJ.%26%23039%3B%2C+First_Name%3D%26%23039%3BDAVE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1962&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 46
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bfauna%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=scarmarbin_2408&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BAntarctic+Peninsula%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=scarmarbin_2408&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 47
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CTD+CONDUCTIVITY%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CTD+SALINITY%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 48
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=&EntryId=CEDAR_NCAR_HAO&MetadataView=Full&MetadataType=0&lbnode=mdlb5
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BVERTICAL+LOCATION%26%23039%3B%2C+Location_Type%3D%26%23039%3BIONOSPHERE%26%23039%3B%5D&EntryId=CEDAR_NCAR_HAO&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 49
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27CEDAR_NCAR_HAO%27%5D&EntryId=CEDAR_Imager&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27CEDAR_NCAR_HAO%27%5D&OrigMetadataNode=GCMD&EntryId=CEDAR_Imager&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 50
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BExpeditions%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ANARE_Expeditions_1947-1966&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=AADC&EntryId=ANARE_Expeditions_1947-1966&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 51
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Science+Blog%27%5D&Portal=ceos_svcs&MetadataType=1
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27CAHALAN%27%2C+First_Name%3D%27ROBERT%27%5D&Portal=ceos_svcs&MetadataType=1 is 1
+count of duplicates: 52
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&EntryId=ORNL_THREDDS_Data_Server&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BKeyword%3D%27climatology%27%5D&EntryId=ORNL_THREDDS_Data_Server&MetadataView=Full&MetadataType=1&lbnode=mdlb3 is 1
+count of duplicates: 53
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BOriginating_Center%3D%26%23039%3BIAU%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=AMD_UY-Glaciology2004&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=GCMD&EntryId=AMD_UY-Glaciology2004&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 54
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BGonad%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00073&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BLOCATION%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00073&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 55
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BPARTICULATE+MATTER%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1004&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BICE+CORE+AIR+BUBBLES%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1004&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 56
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&EntryId=NASA_TAD&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27ATMOSPHERE%27%2C+Science_Term%3D%27ATMOSPHERIC+RADIATION%27%5D&EntryId=NASA_TAD&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 57
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Silver-Grey+Petrels%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Silver-grey+petrels%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 58
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1118&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BSensor_Name%3A+Short_Name%3D%26%23039%3BCameras%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1118&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 59
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=noaa&KeywordPath=%5BProject%3A+Short_Name%3D%26%23039%3BICESAT%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=GLA05&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=noaa&KeywordPath=%5BKeyword%3D%26%23039%3BWaveform+Skewness%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=GLA05&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 60
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27U.S.+Census%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BProject%3A+Short_Name%3D%27USCG%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 61
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BProject%3A+Short_Name%3D%26%23039%3BEOSDIS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=BOREAS_TF11TFX&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BSensor_Name%3A+Short_Name%3D%26%23039%3BSOIL+HEAT+FLUX+TRANSDUCER%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=BOREAS_TF11TFX&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 62
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BKeyword%3D%26%23039%3Bscientific+mission%26%23039%3B%5D&OrigMetadataNode=NOAA-NGDC&EntryId=gov.noaa.ngdc.mgg.wcd.EX1402L3_EK60&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BKeyword%3D%26%23039%3Bsea%26%23039%3B%5D&OrigMetadataNode=NOAA-NGDC&EntryId=gov.noaa.ngdc.mgg.wcd.EX1402L3_EK60&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 63
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=GCMD&EntryId=CNDA-ESP_BRANDSFIELD&MetadataView=Full&MetadataType=0&lbnode=mdlb5
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BOCEANS%26%23039%3B%2C+Term%3D%26%23039%3BOCEAN+CIRCULATION%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BWATER+MASSES%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=CNDA-ESP_BRANDSFIELD&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 64
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27WADLEY%27%2C+Middle_Name%3D%27A%27%2C+First_Name%3D%27VICTORIA%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27STODDART%27%2C+First_Name%3D%27MICHAEL%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 65
+Distance between URL:: http://gcmd.gsfc.nasa.gov/getdif.htm?[GCMD]NSIDC-0020
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0020&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 66
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BIPO%26%23039%3B%2C+First_Name%3D%26%23039%3BSOLAS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=SOLAS_POSEIDON332&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BUEA%26%2347%3BSES%26%2347%3BSOLAS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=SOLAS_POSEIDON332&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 67
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27BIOLOGICAL+CLASSIFICATION%27%2C+Term%3D%27ANIMALS%2FINVERTEBRATES%27%2C+Variable_Level_1%3D%27ARTHROPODS%27%2C+Variable_Level_2%3D%27CRUSTACEANS%27%2C+Variable_Level_3%3D%27AMPHIPODS%27%5D&EntryId=TRENZ&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BECOLOGICAL+DYNAMICS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSPECIES%26%2347%3BPOPULATION+INTERACTIONS%26%23039%3B%2C+Variable_Level_2%3D%26%23039%3BUSE%26%2347%3BFEEDING+HABITATS%26%23039%3B%5D&EntryId=TRENZ&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 68
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BECOLOGICAL+DYNAMICS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BCOMMUNITY+DYNAMICS%26%23039%3B%2C+Variable_Level_2%3D%26%23039%3BBIODIVERSITY+FUNCTIONS%26%23039%3B%5D&EntryId=TRENZ_Stable_Isotopes&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27BIOSPHERE%27%2C+Term%3D%27ECOLOGICAL+DYNAMICS%27%2C+Variable_Level_1%3D%27SPECIES%2FPOPULATION+INTERACTIONS%27%2C+Variable_Level_2%3D%27SPECIES+PREDATION%27%5D&OrigMetadataNode=AADC&EntryId=TRENZ_Stable_Isotopes&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 69
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=Parameters%7CBIOSPHERE&EntryId=[AADC]ASAC_1083&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BBEYER%26%23039%3B%2C+First_Name%3D%26%23039%3BLOTHAR%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1083&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 70
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BKeyword%3D%26%23039%3BPassive+Microwave+Brightness+Temperatures%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0105&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0105&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 71
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BSource_Name%3A+Short_Name%3D%27FIXED+OBSERVATION+STATIONS%27%5D&EntryId=NOAA_NWS_WX&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27ATMOSPHERE%27%2C+Science_Term%3D%27ATMOSPHERIC+TEMPERATURE%27%2C+Science_Variable_Level_1%3D%27MAXIMUM%2FMINIMUM+TEMPERATURE%27%5D&EntryId=NOAA_NWS_WX&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 72
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=ServiceParameters%7CEDUCATION%2FOUTREACH&EntryId=MY_NASA_DATA_CE&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BKeyword%3D%27Land+Surface%27%5D&EntryId=MY_NASA_DATA_CE&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 73
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1963&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1963&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 74
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=ServiceParameters%7CDATA+MANAGEMENT%2FDATA+HANDLING%7CSUBSETTING%2FSUPERSETTING&EntryId=LARC_MOPITT_Search_Subsetting&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=ServiceParameters%7CDATA+MANAGEMENT%2FDATA+HANDLING&EntryId=LARC_MOPITT_Search_Subsetting&MetadataView=Full&MetadataType=1&lbnode=mdlb3 is 1
+count of duplicates: 75
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=ServiceParameters%7CHAZARDS+MANAGEMENT%7CHAZARDS+PLANNING&EntryId=UN_SPIDER_PORTAL&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BPersonnel%3A+Last_Name%3D%27UN+OFFICE+FOR+OUTER+SPACE+AFFAIRS%27%5D&EntryId=UN_SPIDER_PORTAL&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 76
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27REGULAR%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27RANDOM%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 77
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Titles.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BECOLOGICAL+DYNAMICS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSPECIES%26%2347%3BPOPULATION+INTERACTIONS%26%23039%3B%2C+Variable_Level_2%3D%26%23039%3BUSE%26%2347%3BFEEDING+HABITATS%26%23039%3B%5D&MetadataType=0&Offset=50&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Pen%C3%ADnsula+Ant%C3%A1rtica%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 78
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Coppermine+Bay%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Antarctic+soils%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 79
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27scientific+mission%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27underwater%27%5D&Portal=water&MetadataType=0 is 1
+count of duplicates: 80
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27BIOSPHERE%27%2C+Science_Term%3D%27VEGETATION%27%2C+Science_Variable_Level_1%3D%27VEGETATION+COVER%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27LAND+SURFACE%27%2C+Science_Term%3D%27LAND+USE%2FLAND+COVER%27%2C+Science_Variable_Level_1%3D%27LAND+USE+CLASSES%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 81
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27LAND+SURFACE%27%2C+Science_Term%3D%27LAND+USE%2FLAND+COVER%27%2C+Science_Variable_Level_1%3D%27LAND+USE+CLASSES%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27HUMAN+DIMENSIONS%27%2C+Science_Term%3D%27HABITAT+CONVERSION%2FFRAGMENTATION%27%2C+Science_Variable_Level_1%3D%27URBANIZATION%2FURBAN+SPRAWL%27%5D&EntryId=Deegree-JaGo&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 82
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CRETACEOUS%27%5D&Portal=GCMD_Services&MetadataType=1
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27SILURIAN%27%5D&Portal=GCMD_Services&MetadataType=1 is 1
+count of duplicates: 83
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3BLOCATION%26%23039%3B%5D&EntryId=ASAC_2201&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BO%26%23039%3BBrien+Bay%26%23039%3B%5D&EntryId=ASAC_2201&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 84
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BCLIMATE+CHANGE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AAS_3117&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AAS_3117&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 85
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BOCEANS%26%23039%3B%2C+Term%3D%26%23039%3BOCEAN+WAVES%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BWAVE+HEIGHT%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=USGS_WHFC_SUPERDIF3&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BATLANTIC+OCEAN%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BU.S.+EASTERN+SEABOARD%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=USGS_WHFC_SUPERDIF3&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 86
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BTERRESTRIAL+HYDROSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSNOW%26%2347%3BICE+CHEMISTRY%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BIsotope%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 87
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27SEA+SURFACE+TOPOGRAPHY%27%2C+Science_Variable_Level_1%3D%27SEA+SURFACE+HEIGHT%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27COASTAL+PROCESSES%27%2C+Science_Variable_Level_1%3D%27INTERTIDAL+ZONE%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 88
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 89
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BNORTH+AMERICA%26%23039%3B%2C+Location_Subregion1%3D%26%23039%3BUNITED+STATES+OF+AMERICA%26%23039%3B%2C+Location_Subregion2%3D%26%23039%3BCALIFORNIA%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 90
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+RADIATION%26%23039%3B%5D&EntryId=[AADC]201011010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 91
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 92
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 93
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112040&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 94
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=AADC&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 95
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BFAST+ICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BCRYOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 96
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201011021&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 97
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 98
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=noaa&MetadataType=0 is 1
+count of duplicates: 99
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27SEA+ICE%27%2C+Variable_Level_1%3D%27SEA+ICE+MOTION%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?Portal=water&KeywordPath=Parameters%7COCEANS%7CSEA+ICE%7CSEA+ICE+MOTION&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 100
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BCLIMATE+CHANGE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_40_AS0405R4&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_40_AS0405R4&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 101
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BGiant+Petrels%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_Zoology_1959_1961&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BSilver-Grey+Petrels%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_Zoology_1959_1961&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 102
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1962&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BCONNELL%26%23039%3B%2C+Middle_Name%3D%26%23039%3BJ.%26%23039%3B%2C+First_Name%3D%26%23039%3BDAVE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1962&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 103
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bfauna%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=scarmarbin_2408&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BAntarctic+Peninsula%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=scarmarbin_2408&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 104
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CTD+CONDUCTIVITY%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CTD+SALINITY%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 105
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=&EntryId=CEDAR_NCAR_HAO&MetadataView=Full&MetadataType=0&lbnode=mdlb5
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BVERTICAL+LOCATION%26%23039%3B%2C+Location_Type%3D%26%23039%3BIONOSPHERE%26%23039%3B%5D&EntryId=CEDAR_NCAR_HAO&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 106
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27CEDAR_NCAR_HAO%27%5D&EntryId=CEDAR_Imager&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27CEDAR_NCAR_HAO%27%5D&OrigMetadataNode=GCMD&EntryId=CEDAR_Imager&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 107
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BExpeditions%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ANARE_Expeditions_1947-1966&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=AADC&EntryId=ANARE_Expeditions_1947-1966&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 108
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Science+Blog%27%5D&Portal=ceos_svcs&MetadataType=1
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27CAHALAN%27%2C+First_Name%3D%27ROBERT%27%5D&Portal=ceos_svcs&MetadataType=1 is 1
+count of duplicates: 109
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&EntryId=ORNL_THREDDS_Data_Server&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BKeyword%3D%27climatology%27%5D&EntryId=ORNL_THREDDS_Data_Server&MetadataView=Full&MetadataType=1&lbnode=mdlb3 is 1
+count of duplicates: 110
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BOriginating_Center%3D%26%23039%3BIAU%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=AMD_UY-Glaciology2004&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=GCMD&EntryId=AMD_UY-Glaciology2004&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 111
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BGonad%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00073&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BLOCATION%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00073&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 112
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BPARTICULATE+MATTER%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1004&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BICE+CORE+AIR+BUBBLES%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1004&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 113
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&EntryId=NASA_TAD&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27ATMOSPHERE%27%2C+Science_Term%3D%27ATMOSPHERIC+RADIATION%27%5D&EntryId=NASA_TAD&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 114
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27SEA+ICE%27%2C+Variable_Level_1%3D%27SEA+ICE+MOTION%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?Portal=water&KeywordPath=Parameters%7COCEANS%7CSEA+ICE%7CSEA+ICE+MOTION&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 115
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BCLIMATE+CHANGE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_40_AS0405R4&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bclimate+change%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_40_AS0405R4&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 116
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BGiant+Petrels%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_Zoology_1959_1961&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BSilver-Grey+Petrels%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_Zoology_1959_1961&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 117
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1962&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BCONNELL%26%23039%3B%2C+Middle_Name%3D%26%23039%3BJ.%26%23039%3B%2C+First_Name%3D%26%23039%3BDAVE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Biology_Log_Wilkes_1962&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 118
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bfauna%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=scarmarbin_2408&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BAntarctic+Peninsula%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=scarmarbin_2408&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 119
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CTD+CONDUCTIVITY%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CTD+SALINITY%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 120
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=&EntryId=CEDAR_NCAR_HAO&MetadataView=Full&MetadataType=0&lbnode=mdlb5
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BVERTICAL+LOCATION%26%23039%3B%2C+Location_Type%3D%26%23039%3BIONOSPHERE%26%23039%3B%5D&EntryId=CEDAR_NCAR_HAO&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 121
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27CEDAR_NCAR_HAO%27%5D&EntryId=CEDAR_Imager&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27CEDAR_NCAR_HAO%27%5D&OrigMetadataNode=GCMD&EntryId=CEDAR_Imager&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 122
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BExpeditions%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ANARE_Expeditions_1947-1966&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=AADC&EntryId=ANARE_Expeditions_1947-1966&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 123
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Science+Blog%27%5D&Portal=ceos_svcs&MetadataType=1
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27CAHALAN%27%2C+First_Name%3D%27ROBERT%27%5D&Portal=ceos_svcs&MetadataType=1 is 1
+count of duplicates: 124
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&EntryId=ORNL_THREDDS_Data_Server&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BKeyword%3D%27climatology%27%5D&EntryId=ORNL_THREDDS_Data_Server&MetadataView=Full&MetadataType=1&lbnode=mdlb3 is 1
+count of duplicates: 125
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BOriginating_Center%3D%26%23039%3BIAU%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=AMD_UY-Glaciology2004&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=&OrigMetadataNode=GCMD&EntryId=AMD_UY-Glaciology2004&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 126
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BGonad%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00073&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BLOCATION%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00073&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 127
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BPARTICULATE+MATTER%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1004&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BICE+CORE+AIR+BUBBLES%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1004&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 128
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BISO_Topic_Category%3D%27CLIMATOLOGY%2FMETEOROLOGY%2FATMOSPHERE%27%5D&EntryId=NASA_TAD&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27ATMOSPHERE%27%2C+Science_Term%3D%27ATMOSPHERIC+RADIATION%27%5D&EntryId=NASA_TAD&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 129
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BTERRESTRIAL+HYDROSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSNOW%26%2347%3BICE+CHEMISTRY%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BIsotope%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 130
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27SEA+SURFACE+TOPOGRAPHY%27%2C+Science_Variable_Level_1%3D%27SEA+SURFACE+HEIGHT%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27COASTAL+PROCESSES%27%2C+Science_Variable_Level_1%3D%27INTERTIDAL+ZONE%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 131
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 132
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BNORTH+AMERICA%26%23039%3B%2C+Location_Subregion1%3D%26%23039%3BUNITED+STATES+OF+AMERICA%26%23039%3B%2C+Location_Subregion2%3D%26%23039%3BCALIFORNIA%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 133
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+RADIATION%26%23039%3B%5D&EntryId=[AADC]201011010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 134
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 135
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 136
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112040&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 137
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=AADC&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 138
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BFAST+ICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BCRYOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 139
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201011021&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 140
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 141
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=noaa&MetadataType=0 is 1
+count of duplicates: 142
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213_10_second_underway&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 143
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 144
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BOCEAN%26%23039%3B%2C+Location_Type%3D%26%23039%3BARCTIC+OCEAN%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BNORTH+AMERICA%26%23039%3B%2C+Location_Subregion1%3D%26%23039%3BUNITED+STATES+OF+AMERICA%26%23039%3B%2C+Location_Subregion2%3D%26%23039%3BCALIFORNIA%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=G02201&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 145
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27JACKSON%27%2C+First_Name%3D%27THOMAS%27%5D&Portal=noaa&MetadataType=0 is 1
+count of duplicates: 146
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213030&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 147
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 148
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 149
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112040&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 150
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=AADC&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 151
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BFAST+ICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BCRYOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 152
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201011021&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 153
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BTERRESTRIAL+HYDROSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSNOW%26%2347%3BICE+CHEMISTRY%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BIsotope%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 154
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27SEA+SURFACE+TOPOGRAPHY%27%2C+Science_Variable_Level_1%3D%27SEA+SURFACE+HEIGHT%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27COASTAL+PROCESSES%27%2C+Science_Variable_Level_1%3D%27INTERTIDAL+ZONE%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 155
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27SEA+SURFACE+TOPOGRAPHY%27%2C+Science_Variable_Level_1%3D%27SEA+SURFACE+HEIGHT%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27COASTAL+PROCESSES%27%2C+Science_Variable_Level_1%3D%27INTERTIDAL+ZONE%27%5D&EntryId=NASA_PODAAC_Dataminer&MetadataView=Full&MetadataType=1&lbnode=mdlb4 is 1
+count of duplicates: 156
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27HUMAN+DIMENSIONS%27%2C+Term%3D%27ENVIRONMENTAL+IMPACTS%27%2C+Variable_Level_1%3D%27CHEMICAL+SPILLS%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27BIOSPHERE%27%2C+Term%3D%27ECOLOGICAL+DYNAMICS%27%2C+Variable_Level_1%3D%27ECOSYSTEM+FUNCTIONS%27%2C+Variable_Level_2%3D%27TROPHIC+DYNAMICS%27%5D&Portal=GCMD&MetadataType=0 is 1
+count of duplicates: 157
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=AADC&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 158
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213030&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 159
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112030&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 160
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 161
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011050&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 162
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112030&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 163
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112040&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 164
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201011021&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 165
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BTERRESTRIAL+HYDROSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSNOW%26%2347%3BICE+CHEMISTRY%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BIsotope%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 166
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BFAST+ICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BCRYOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 167
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BFAST+ICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BCRYOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=AADC-00107&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 168
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112030&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 169
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112040&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BKeyword%3D%26%23039%3BMARINE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 170
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201011021&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParent_DIF%3D%27underway_ship_data%27%5D&OrigMetadataNode=AADC&EntryId=201314060&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 171
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27NITROGEN%27%5D&OrigMetadataNode=AADC&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 172
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=%5BKeyword%3D%26%23039%3Bgrowth+rates%26%23039%3B%5D&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb5 is 1
+count of duplicates: 173
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=water&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BTERRESTRIAL+HYDROSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BSNOW%26%2347%3BICE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSNOW%26%2347%3BICE+CHEMISTRY%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BIsotope%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0506&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 174
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BJACKSON%26%23039%3B%2C+First_Name%3D%26%23039%3BTHOMAS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSIDC-0296&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=&OrigMetadataNode=GCMD&EntryId=G02164&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 175
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=ceos_svcs&KeywordPath=ServiceParameters%7CDATA+MANAGEMENT%2FDATA+HANDLING&EntryId=NASA_JPL_PODAAC_hitide&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27AMMONIA%27%5D&Portal=solas&MetadataType=0 is 1
+count of duplicates: 176
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BLocation%3A+Location_Category%3D%27GEOGRAPHIC+REGION%27%2C+Location_Type%3D%27ARCTIC%27%5D&Portal=noaa&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27BIOSPHERE%27%2C+Term%3D%27ECOLOGICAL+DYNAMICS%27%2C+Variable_Level_1%3D%27ECOSYSTEM+FUNCTIONS%27%2C+Variable_Level_2%3D%27TROPHIC+DYNAMICS%27%5D&Portal=GCMD&MetadataType=0 is 1
+count of duplicates: 177
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213030&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 178
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112030&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 179
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 180
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011050&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 181
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?Portal=gommp&KeywordPath=Parameters%7COCEANS%7CMARINE+GEOPHYSICS&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27GSA+CUSTOMER+SERVICE%27%5D&Portal=GCMD_Services&MetadataType=1 is 1
+count of duplicates: 182
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Frozen+Ground%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CD-ROM%27%5D&Portal=GCMD_Services&MetadataType=1 is 1
+count of duplicates: 183
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD&KeywordPath=&EntryId=BROKE-West&MetadataView=Full&MetadataType=0&lbnode=mdlb5
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&EntryId=[AADC]201314010&MetadataView=Text&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 184
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Supplementals.do?Portal=amd&KeywordPath=Platforms&NumericId=11385&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BCAPE+ROYDS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=K014_1999_2000_NZ_1&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 185
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BCONNELL%26%23039%3B%2C+Middle_Name%3D%26%23039%3BJ.%26%23039%3B%2C+First_Name%3D%26%23039%3BDAVE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1163_Soil_Tox_Pet&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=nsidc&KeywordPath=&OrigMetadataNode=GCMD&EntryId=G02164&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 186
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BSource_Name%3A+Short_Name%3D%27SATELLITES%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BParameters%3A+Topic%3D%27OCEANS%27%2C+Term%3D%27OCEAN+CHEMISTRY%27%2C+Variable_Level_1%3D%27AMMONIA%27%5D&Portal=solas&MetadataType=0 is 1
+count of duplicates: 187
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BLocation%3A+Location_Category%3D%27GEOGRAPHIC+REGION%27%2C+Location_Type%3D%27ARCTIC%27%5D&Portal=noaa&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BOriginating_Center%3D%27English%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 188
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213030&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 189
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112030&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 190
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 191
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011050&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 192
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910070&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910070&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 193
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 194
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3Bgeochemistry%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=CDA_AR_GEO_GEOCHEMISTRY_DATA&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BSensor_Name%3A+Short_Name%3D%27SMMR%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 195
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BSensor_Name%3A+Short_Name%3D%27SMMR%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BService_Provider%3A+Short_Name%3D%27DOI%2FUSGS%2FGEOG%2FWRG%27%5D&Portal=ceos_svcs&MetadataType=1 is 1
+count of duplicates: 196
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?Portal=gommp&KeywordPath=Parameters%7COCEANS%7CMARINE+GEOPHYSICS&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BPersonnel%3A+Last_Name%3D%27GSA+CUSTOMER+SERVICE%27%5D&Portal=GCMD_Services&MetadataType=1 is 1
+count of duplicates: 197
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27Frozen+Ground%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CD-ROM%27%5D&Portal=GCMD_Services&MetadataType=1 is 1
+count of duplicates: 198
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27CD-ROM%27%5D&Portal=GCMD_Services&MetadataType=1
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BCAPE+ROYDS%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=K014_1999_2000_NZ_1&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 199
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BPersonnel%3A+Last_Name%3D%26%23039%3BCONNELL%26%23039%3B%2C+Middle_Name%3D%26%23039%3BJ.%26%23039%3B%2C+First_Name%3D%26%23039%3BDAVE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=ASAC_1163_Soil_Tox_Pet&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BSource_Name%3A+Short_Name%3D%27SATELLITES%27%5D&Portal=water&MetadataType=0 is 1
+count of duplicates: 200
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BSource_Name%3A+Short_Name%3D%27SATELLITES%27%5D&Portal=water&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BOriginating_Center%3D%27English%27%5D&Portal=amd&MetadataType=0 is 1
+count of duplicates: 201
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BOriginating_Center%3D%27English%27%5D&Portal=amd&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BSource_Name%3A+Short_Name%3D%27SATELLITES%27%5D&Portal=water&MetadataType=0 is 1
+count of duplicates: 202
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213030&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 203
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112030&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 204
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 205
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011050&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 206
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910070&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910070&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 207
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 208
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213030&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 209
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011000&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WATER+VAPOR%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BHUMIDITY%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201314010&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 210
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011040&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BData_Center%3A+Short_Name%3D%26%23039%3BAU%26%2347%3BAADC%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201213040&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 211
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201112010&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=201011050&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 212
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+PRESSURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSEA+LEVEL+PRESSURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910070&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+WINDS%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910070&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 213
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=solas&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BOCEANS%26%23039%3B%2C+Term%3D%26%23039%3BOCEAN+CHEMISTRY%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BSTABLE+ISOTOPES%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=org.polarresearch-576&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27gravity+data%27%5D&Portal=nsidc&MetadataType=0 is 1
+count of duplicates: 214
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Keywords.do?KeywordPath=%5BKeyword%3D%27gravity+data%27%5D&Portal=nsidc&MetadataType=0
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BHUMAN+DIMENSIONS%26%23039%3B%2C+Term%3D%26%23039%3BENVIRONMENTAL+GOVERNANCE%26%2347%3BMANAGEMENT%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BLAND+MANAGEMENT%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=survey_1998-99_V4&MetadataView=Full&MetadataType=0&lbnode=mdlb3 is 1
+count of duplicates: 215
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=GCMD_Services&KeywordPath=%5BScience_Parameters%3A+Science_Category%3D%27EARTH+SCIENCE%27%2C+Science_Topic%3D%27OCEANS%27%2C+Science_Term%3D%27TIDES%27%2C+Science_Variable_Level_1%3D%27TIDAL+HEIGHT%27%5D&EntryId=01-tide_predictor-99&MetadataView=Full&MetadataType=1&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BPALEOCLIMATE%26%23039%3B%2C+Term%3D%26%23039%3BICE+CORE+RECORDS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BELECTRICAL+PROPERTIES%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=PALEO_EPICA_2004-030&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 216
+Distance between URL:: http://gcmd.gsfc.nasa.gov/records/01-Into_to_Arctic_CD-ROM-01.html
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Home.do?Portal=mop&MetadataType=0 is 1
+count of duplicates: 217
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BHUMAN+DIMENSIONS%26%23039%3B%2C+Term%3D%26%23039%3BPOPULATION%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=Heard_data_snapshot_1901-2002&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BSensor_Name%3A+Short_Name%3D%26%23039%3BCameras%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=CEAMARC_CASO_200708_V3_IMAGES&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 218
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BBIOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BAQUATIC+ECOSYSTEMS%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BRIVERS%26%2347%3BSTREAM+HABITAT%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=NSF-ANT08-38970&MetadataView=Full&MetadataType=0&lbnode=mdlb4
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BParameters%3A+Topic%3D%26%23039%3BATMOSPHERE%26%23039%3B%2C+Term%3D%26%23039%3BATMOSPHERIC+TEMPERATURE%26%23039%3B%2C+Variable_Level_1%3D%26%23039%3BAIR+TEMPERATURE%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=200910010&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 219
+Distance between URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BLocation%3A+Location_Category%3D%26%23039%3BCONTINENT%26%23039%3B%2C+Location_Type%3D%26%23039%3BANTARCTICA%26%23039%3B%2C+Detailed_Location%3D%26%23039%3BROSS+ISLAND%26%23039%3B%5D&OrigMetadataNode=GCMD&EntryId=K019_2000_2001_NZ_1&MetadataView=Full&MetadataType=0&lbnode=mdlb3
+ and 
+URL:: http://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=amd&KeywordPath=%5BKeyword%3D%26%23039%3BTIME%26%23039%3B%5D&OrigMetadataNode=AADC&EntryId=casey_aws&MetadataView=Full&MetadataType=0&lbnode=mdlb4 is 1
+count of duplicates: 220
