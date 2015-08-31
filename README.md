@@ -101,10 +101,9 @@ The URLs in the first crawl are still present in the second crawl. The enhanced 
 
 #Algorithm for detecting exact duplicates
 The algorithm below is used for the data that data we parsed from the crawl.
-First we constructed tri-gram shingling feature vector from the parsed text of each
-document. Each element of the feature vector was then hashed using MD-5l, which are 128
-bits. We used random chunks of 64-bits from the 128 bits as the signature of the document.
-We used the SimHash algorithm to detect the duplicates.
+
+First we constructed tri-gram shingling feature vector from the parsed text of each document. Each element of the feature vector was then hashed using MD-5l, which are 128 bits. We used random chunks of 64-bits from the 128 bits as the signature of the document. We used the SimHash algorithm to detect the duplicates.
+
     The SimHash algorithm is:
     1. Define a fingerprint size = 64 bits
     2. Create an array V[] filled with this size of zeros
