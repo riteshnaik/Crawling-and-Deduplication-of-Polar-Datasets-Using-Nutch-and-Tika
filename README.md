@@ -49,3 +49,15 @@ The selenium plugin is used to manipulate AJAX enabled web pages during repetiti
 crawls. The Selenium plugin parses the JavaScript, and passes the content to the
 consecutive rounds in the Nutch crawl. This helps as the AJAX/JavaScript dependent
 content is being stored in the database
+
+##Did you get more data after installing the Tika updates and recrawling?
+By the time we had reached the second crawl the ADE site was already down so we could
+only crawl AMD and ACADIS.
+We observed that the first crawl of ACADIS we came across total of 4982 URLs and fetched
+1976 URLs. In the crawl with enhanced Tika and Selenium we came across 8927 URLs and
+fetched 3838 URLs. So we got more data than the previous crawl for the ACADIS website.
+Whereas the data we got from the AMD site went down in the second crawl. This is was
+because many webpages showed “404-You have selected a page within the GCMD web
+site which does not exist.” The fetch for these pages failed with a HTTP code of 503.
+Because of this the number of URLs in the queue in the consecutive rounds decreased
+significantly.
