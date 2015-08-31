@@ -61,3 +61,41 @@ because many webpages showed “404-You have selected a page within the GCMD web
 site which does not exist.” The fetch for these pages failed with a HTTP code of 503.
 Because of this the number of URLs in the queue in the consecutive rounds decreased
 significantly.
+
+##Do you think you achieved good coverage of the 3 repositories?
+Given the time and circumstances we managed to crawl a good amount of data from the
+given sites.
+
+##Are the unfetched URLs from crawl1 still present? Did the enhanced Tika parsing
+assist with that?
+The URLs in the first crawl are still present in the second crawl. The enhanced Tika parsing
+helped us find some unfetched URLs from the first crawl which were fetched in the second.
+    For e.g.
+        ● https://www.aoncadis.org/scienceKeywordTopic/Human%20Dimensions.html
+          1st crawl status: not found(14)
+        ● https://www.aoncadis.org/project/sustaining_and_amplifying_the_itex_aon_through_automation_and_increased_interdisciplinarity_of_observations.html
+          1st crawl status: exception 16
+        ● https://www.aoncadis.org/dataset/Zamora2011.dif
+          1st crawl status: tempmoved
+    The above URLs were fetched in the second crawl.
+        ● https://www.aoncadis.org/ac/guest/secure/registration.html
+          1st crawl status: denied
+          2nd crawl status: db gone
+          
+Crawl Statistics:
+CrawlDb statistics start: crawldata/crawldb
+Statistics for CrawlDb: crawldata/crawldb
+TOTAL urls: 74948
+retry 0: 73934
+retry 1: 668
+retry 2:346
+min score: 0.0
+avg score: 1.5776574E-4
+max score: 1.071
+status 1 (db_unfetched): 62987
+status 2 (db_fetched): 8267
+status 3 (db_gone): 241
+status 4 (db_redir_temp): 3424
+status 5 (db_redir_perm): 2
+status 7 (db_duplicate): 27
+CrawlDb statistics: done
