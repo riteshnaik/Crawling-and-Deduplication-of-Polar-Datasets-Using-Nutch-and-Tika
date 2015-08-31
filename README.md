@@ -43,3 +43,9 @@ them inaccessible to nutch.
 #Second Crawl of AMD, ADE and ACADIS with enhanced Tika and Nutch Selenium
 MIME types can be found in the attached file. (crawl2_mimetypes.txt). We added the
 protocol-httpclient plugin in the property plugin.includes in nutch-site.xml.
+
+##Did the Selenium plugin help?
+The selenium plugin is used to manipulate AJAX enabled web pages during repetitive web
+crawls. The Selenium plugin parses the JavaScript, and passes the content to the
+consecutive rounds in the Nutch crawl. This helps as the AJAX/JavaScript dependent
+content is being stored in the database
