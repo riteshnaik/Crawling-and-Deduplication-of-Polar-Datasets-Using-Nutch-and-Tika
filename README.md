@@ -23,8 +23,8 @@ NetCDF and Grib files. This was because these files were present behind forms ma
 them inaccessible to nutch.
 
 ##Crawl Statistics:
-CrawlDb statistics start: crawldata/crawldb
-Statistics for CrawlDb: crawldata/crawldb
+    CrawlDb statistics start: crawldata/crawldb
+    Statistics for CrawlDb: crawldata/crawldb
 TOTAL urls: 223331
 retry 0: 222950
 retry 1: 380
