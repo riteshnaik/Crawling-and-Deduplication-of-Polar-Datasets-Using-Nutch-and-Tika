@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="dedupxact"
+   name="Deduplication Exact Parser/Filter"
+   version="0.0.1"
+   provider-name="nutch.org">
+
+   <runtime>
+      <!-- As defined in build.xml this plugin will end up bundled as recommended.jar -->
+      <library name="dedupxact.jar">
+         <export name="*"/>
+      </library>
+      <library name="tika-app-1.7.jar"/>
+   </runtime>
+
+   <!-- The RecommendedParser extends the HtmlParseFilter to grab the contents of
+        any recommended meta tags -->
+   <extension id="org.apache.nutch.parse.dedupxact.dedupxactparser"
+              name="Deduplication Exact Parser"
+              point="org.apache.nutch.net.URLFilter">
+      <implementation id="DedupXactParser"
+                      class="org.apache.nutch.parse.dedupxact.DedupXactParser"/>
+   </extension>
+
+</plugin>

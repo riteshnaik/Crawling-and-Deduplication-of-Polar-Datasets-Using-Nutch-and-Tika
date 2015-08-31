@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+   id="dedupnear"
+   name="Deduplication Near Parser/Filter"
+   version="0.0.1"
+   provider-name="nutch.org">
+
+   <runtime>
+      <!-- As defined in build.xml this plugin will end up bundled as recommended.jar -->
+      <library name="dedupnear.jar">
+         <export name="*"/>
+      </library>
+      <library name="tika-app-1.7.jar"/>
+   </runtime>
+
+   <!-- The RecommendedParser extends the HtmlParseFilter to grab the contents of
+        any recommended meta tags -->
+   <extension id="org.apache.nutch.parse.dedupnear.dedupnearparser"
+              name="Deduplication Near Parser"
+              point="org.apache.nutch.net.URLFilter">
+      <implementation id="DedupNearParser"
+                      class="org.apache.nutch.parse.dedupnear.DedupNearParser"/>
+   </extension>
+
+</plugin>
