@@ -80,20 +80,20 @@ The URLs in the first crawl are still present in the second crawl. The enhanced 
           1st crawl status: denied
           2nd crawl status: db gone
           
-Crawl Statistics:
-CrawlDb statistics start: crawldata/crawldb
-Statistics for CrawlDb: crawldata/crawldb
-TOTAL urls: 74948
-retry 0: 73934
-retry 1: 668
-retry 2:346
-min score: 0.0
-avg score: 1.5776574E-4
-max score: 1.071
-status 1 (db_unfetched): 62987
-status 2 (db_fetched): 8267
-status 3 (db_gone): 241
-status 4 (db_redir_temp): 3424
-status 5 (db_redir_perm): 2
-status 7 (db_duplicate): 27
-CrawlDb statistics: done
+##Crawl Statistics:
+    CrawlDb statistics start: crawldata/crawldb
+    Statistics for CrawlDb: crawldata/crawldb
+    TOTAL urls: 74948
+    retry 0: 73934
+    retry 1: 668
+    retry 2:346
+    min score: 0.0
+    avg score: 1.5776574E-4
+    max score: 1.071
+    status 1 (db_unfetched): 62987
+    status 2 (db_fetched): 8267
+    status 3 (db_gone): 241
+    status 4 (db_redir_temp): 3424
+    status 5 (db_redir_perm): 2
+    status 7 (db_duplicate): 27
+    CrawlDb statistics: done
